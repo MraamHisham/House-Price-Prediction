@@ -22,7 +22,19 @@ A complete machine learning project to predict house prices using advanced regre
 - Converted categorical columns with `pd.get_dummies()`
 - Applied log transformation on the target variable for normalization
 
+
+  
 ---
+![Screenshot 2025-07-09 054546](https://github.com/user-attachments/assets/d148b229-535a-4146-aadd-ce8d227eaeee)
+![Screenshot 2025-07-09 054524](https://github.com/user-attachments/assets/411b65c0-f6e0-48b6-81ce-e4838571b00b)
+![Screenshot 2025-07-08 183217](https://github.com/user-attachments/assets/397b6e1d-c8f8-46d9-a27d-7f3757b9fadc)
+
+##  About Me
+
+I'm **Maram** a Computer Science student (Data Science & AI), and also a video editor using Adobe Premiere Pro & After Effects.
+
+-  GitHub: [github.com/MraamHisham](https://github.com/MraamHisham)
+-  Upwork: *https://www.upwork.com/freelancers/~01d30a31dff782c797*
 
 ##  Model Training
 
@@ -38,14 +50,14 @@ XGBRegressor(
   early_stopping_rounds=10,
   random_state=42
 )
-![Screenshot 2025-07-09 054546](https://github.com/user-attachments/assets/d148b229-535a-4146-aadd-ce8d227eaeee)
-![Screenshot 2025-07-09 054524](https://github.com/user-attachments/assets/411b65c0-f6e0-48b6-81ce-e4838571b00b)
-![Screenshot 2025-07-08 183217](https://github.com/user-attachments/assets/397b6e1d-c8f8-46d9-a27d-7f3757b9fadc)
 
-##  About Me
 
-I'm **Maram** a Computer Science student (Data Science & AI), and also a video editor using Adobe Premiere Pro & After Effects.
 
--  GitHub: [github.com/MraamHisham](https://github.com/MraamHisham)
--  Upwork: *https://www.upwork.com/freelancers/~01d30a31dff782c797*
+
+
+
+
+
+
+
 
